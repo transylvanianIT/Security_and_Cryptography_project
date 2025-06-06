@@ -1,0 +1,2 @@
+Salut! Acesta este un test de criptare TEA.
+

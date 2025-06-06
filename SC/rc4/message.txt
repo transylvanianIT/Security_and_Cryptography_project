@@ -1,0 +1,1 @@
+Mesaj secret criptat cu RC4
